@@ -1,0 +1,22 @@
+Comando					Descrição
+cd						Navega para o diretório especificado
+cd ..						Retrocede um nível no diretório
+cd pasta\					Avança um nível no diretório
+dir						Lista os arquivos e diretórios no diretório atual
+md ou mkdir					Cria um novo diretório
+rd ou rmdir					Remove um diretório vazio
+del ou erase				Remove um arquivo
+copy						Copia um arquivo para um novo local
+move						Move um arquivo para um novo local
+type						Mostra o conteúdo de um arquivo
+more						Mostra o conteúdo de um arquivo de forma paginada
+find						Procura por um padrão em um arquivo
+xcopy						Copia diretórios e subdiretórios, incluindo arquivos
+robocopy					Copia diretórios e subdiretórios, com opções avançadas
+tree						Mostra a estrutura de diretórios em forma de árvore
+chdir ou cd sem parâmetros		Mostra o diretório atual
+pushd						Salva o diretório atual na pilha e navega para um novo diretório
+popd						Navega para o diretório anterior na pilha
+subst						Cria uma unidade virtual associada a um diretório
+compact					Compacta ou descompacta arquivos e diretórios
+ren ou rename				Renomeia um arquivo ou diretório
